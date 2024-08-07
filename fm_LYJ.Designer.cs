@@ -1,5 +1,4 @@
-namespace PointNet
-{
+
     partial class fm_LYJ
     {
         private System.ComponentModel.IContainer components = null;
@@ -1348,4 +1347,3 @@ namespace PointNet
         public System.Windows.Forms.ColumnHeader columnHeader1;
         private System.Windows.Forms.TextBox textBox37;
     }
-}
